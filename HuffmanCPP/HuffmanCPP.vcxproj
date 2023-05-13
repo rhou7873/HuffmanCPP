@@ -25,9 +25,7 @@
     <ClInclude Include="GUIHuffViewer.h" />
     <ClInclude Include="Huff.h" />
     <ClInclude Include="HuffMark.h" />
-    <ClInclude Include="IHuffConstants.h" />
-    <ClInclude Include="IHuffProcessor.h" />
-    <ClInclude Include="IHuffViewer.h" />
+    <ClInclude Include="HuffConstants.h" />
     <ClInclude Include="SimpleHuffProcessor.h" />
     <ClInclude Include="TextHuffViewer.h" />
     <ClInclude Include="TreeNode.h" />
@@ -39,9 +37,6 @@
     <ClCompile Include="GUIHuffViewer.cpp" />
     <ClCompile Include="Huff.cpp" />
     <ClCompile Include="HuffMark.cpp" />
-    <ClCompile Include="IHuffConstants.cpp" />
-    <ClCompile Include="IHuffProcessor.cpp" />
-    <ClCompile Include="IHuffViewer.cpp" />
     <ClCompile Include="SimpleHuffProcessor.cpp" />
     <ClCompile Include="TextHuffViewer.cpp" />
     <ClCompile Include="TreeNode.cpp" />
